@@ -62,10 +62,8 @@ def exceptI(arr):
     
     return(product)
     
-# can optimise space complexity without creating a new array
         
-
-# Driver program to test the above function
+# Driver program
 arr = [1, 2, 3, 4, 5]
 
 ans = exceptI(arr)
